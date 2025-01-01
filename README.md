@@ -103,7 +103,8 @@
 
 ### 🐍 Snake Game Contributions
 
-![Snake Game](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
 
 
 ---
