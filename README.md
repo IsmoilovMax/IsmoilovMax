@@ -1,12 +1,20 @@
 <h1 align="center">👋 Hi, I’m @IsmoilovMax</h1>
 
-<p align="center">🌟 Empowering Digital Transformation Through Web Development 🌟</p>
+<p align="center">🌟 Building impactful web applications with modern technologies 🌟</p>
+
+---
+
+### 🔥 Why Choose Me?
+- ✅ **Full-Stack Expertise**: Strong knowledge of frontend and backend technologies.
+- ✅ **Fast Learner**: Adapt quickly to new tools and frameworks.
+- ✅ **Problem Solver**: Skilled at tackling complex challenges with innovative solutions.
+- ✅ **Team Player**: Excel at collaboration and driving team success.
 
 ---
 
 ### 👀 About Me
 - 🚀 I’m passionate about web development and building full-stack applications.
-- 🌱 Currently, I’m learning **TypeScript, React, NestJS, Next.js, Redux, Node.js, JavaScript, Vite, HTML, CSS, MUI, Tailwind CSS, Express.js**.
+- 🌱 Currently, I’m learning **TypeScript, React, NestJS, Next.js, Redux, Node.js, JavaScript, Vite, HTML, CSS, MUI, Tailwind CSS, and Express.js**.
 - 💞️ Open to collaboration on **web development projects** or **open-source contributions**.
 - ⚡ Fun fact: I enjoy solving **complex puzzles** and continuously learning new things.
 
@@ -32,7 +40,7 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native" width="250"></td>
     <td align="center"><img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" width="250"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-React_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="React Toolkit" width="250"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit" width="250"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" width="250"></td>
@@ -43,15 +51,40 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### 📚 My Learning Resources
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Node.js Guide](https://nodejs.dev/)
 
 ---
 
-### ✨ My Featured Projects
-| **Project Name** | **Description** | **Demo** |
-|-------------------|-----------------|----------|
-| [Project 1](https://github.com/yourrepo) | A cutting-edge project about AI and automation. | [Live Demo](https://example.com) |
-| [Project 2](https://github.com/yourrepo) | Task management web application for productivity. | [Live Demo](https://example.com) |
+### 🏆 Achievements & Certifications
+- 🎓 **Full-Stack Web Development Certification** (Udemy)
+- 🎖️ **Advanced React Certification** (Coursera)
+- 🥇 Winner of **"Hackathon 2023"**
+
+---
+
+### ✨ Featured Projects
+| **Project Name**       | **Description**                   | **Live Demo**              |
+|-------------------------|-----------------------------------|----------------------------|
+| **Portfolio Website**   | A responsive personal portfolio. | [View Here](https://example.com) |
+| **Task Manager**        | Task management app with React.  | [View Here](https://example.com) |
+
+---
+
+### 🕒 My Journey
+- **2021**: Started learning web development.
+- **2022**: Built my first full-stack application.
+- **2023**: Contributed to open-source and won a hackathon.
+
+---
+
+### 🤔 Fun Facts About Me
+- 🧩 I can solve a Rubik's Cube in under 2 minutes.
+- ✈️ I’ve traveled to over 10 countries.
+- 🎮 I enjoy playing strategy games and learning new skills.
 
 ---
 
