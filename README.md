@@ -21,3 +21,18 @@ You can click the Preview link to take a look at your changes.
 | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge) | ![React Toolkit](https://img.shields.io/badge/-React_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge) |
 
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" width="200"></td>
+    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" width="200"></td>
+    <td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-CSS-2965F1?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" width="200"></td>
+    <td><img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS" width="200"></td>
+    <td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" width="200"></td>
+  </tr>
+</table>
+
+
