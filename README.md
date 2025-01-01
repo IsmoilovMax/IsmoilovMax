@@ -3,7 +3,6 @@
 🌱 I’m currently learning TypeScript, React, NestJS, Next.js, Redux, Node.js, JavaScript, Vite, HTML, CSS, MUI, Tailwind CSS, and Express
 💞️ I’m looking to collaborate on web development projects or open-source contributions
 - 📫 How to reach me: maxmudjon2121@gmail.com
-- 😄 Pronouns: ...
 ⚡ Fun fact: I love solving complex puzzles
 
 <!---
