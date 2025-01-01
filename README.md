@@ -101,11 +101,5 @@
 
 ---
 
-### 🧩 Tetris Game Contributions
-
-![Tetris Game](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-tetris.svg)
-
-
----
 
 <h2 align="center">✨ Let's Build the Future Together! ✨</h2>
