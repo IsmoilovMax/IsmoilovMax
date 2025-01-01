@@ -63,6 +63,7 @@
 - 🎓 **Full-Stack Web Development Certification** (Udemy)
 - 🎖️ **Advanced React Certification** (Coursera)
 - 🥇 Winner of **"Hackathon 2023"**
+- 🚀 **Built Full-Stack Projects in 2024**: Successfully developed and deployed multiple full-stack applications using modern technologies like **React**, **Node.js**, **TypeScript**, **NestJS**, and **Next.js**.
 
 ---
 
@@ -97,6 +98,12 @@
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
+
+---
+
+### 🐍 Snake Game Contributions
+
+![Snake Game](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
