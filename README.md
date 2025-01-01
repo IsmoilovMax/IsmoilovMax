@@ -101,9 +101,38 @@
 
 ---
 
-### 🐍 Snake Game Contributions
+name: Generate Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+on:
+  schedule:
+    # Run the job once every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: dist/snake.svg
+
+      - name: Commit and Push Changes
+        run: |
+          mkdir -p output
+          mv dist/snake.svg output/github-contribution-grid-snake.svg
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Updated Snake Game Contributions"
+          git push
+
 
 
 
