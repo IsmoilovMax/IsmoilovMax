@@ -42,6 +42,23 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+### My Featured Projects
+| Project Name | Description | Demo |
+|--------------|-------------|------|
+| [Project 1](https://github.com/yourrepo) | A cool project about AI. | [Live Demo](https://example.com) |
+| [Project 2](https://github.com/yourrepo) | Web app for task management. | [Live Demo](https://example.com) |
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yourmail@gmail.com)
+
+
+<h2 align="center">Hi there! 👋</h2>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+
+
+![Snake Game](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
