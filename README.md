@@ -74,7 +74,7 @@
 ### ✨ Featured Projects
 | **Project Name**       | **Description**                   | **Live Demo**              |
 |-------------------------|-----------------------------------|----------------------------|
-| **Portfolio Website**   | A responsive personal portfolio. | [View Here](https://example.com) |
+| **Portfolio Website**   | A responsive personal portfolio. | [View Here](http://pet-shop.uz) |
 | **Task Manager**        | Task management app with React.  | [View Here](https://example.com) |
 
 ---
