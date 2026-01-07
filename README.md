@@ -83,8 +83,9 @@
 - **2021**: Started learning web development.
 - **2022**: Built my first full-stack application.
 - **2023**: Contributed to open-source and won a hackathon.
-- **2024**: Contributed BEMS project.
-- **2025**: Contributed E-commerce project full-stack application.
+- **2024**: Contributed E-commerce project full-stack application.
+- **2025**: Contributed BEMS IEMS FOMS project.
+- **2026**: Contributed E-commerce project full-stack application.
 
 ---
 
